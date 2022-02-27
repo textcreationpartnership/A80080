@@ -1,0 +1,645 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Gods unusuall answer to a solemne fast. Or, some observations upon the late sad successe in the west, upon the day immediately following our publique humiliation; in a sermon before the Honourable Houses of Parliament, on a fast specially set apart upon that occasion; in Margarets Westminster, Sept. 12. Anno MDCXLIV. By Th: Coleman, Preacher at Peters Cornhill London, a member of the present Assembly.</title>
+            <author>Coleman, Thomas, 1598-1647.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 54 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80080</idno>
+            <idno type="STC">Wing C5051</idno>
+            <idno type="STC">Thomason E16_2</idno>
+            <idno type="STC">ESTC R17560</idno>
+            <idno type="EEBO-CITATION">99860219</idno>
+            <idno type="PROQUEST">99860219</idno>
+            <idno type="VID">154851</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80080)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154851)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 3:E16[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Gods unusuall answer to a solemne fast. Or, some observations upon the late sad successe in the west, upon the day immediately following our publique humiliation; in a sermon before the Honourable Houses of Parliament, on a fast specially set apart upon that occasion; in Margarets Westminster, Sept. 12. Anno MDCXLIV. By Th: Coleman, Preacher at Peters Cornhill London, a member of the present Assembly.</title>
+                  <author>Coleman, Thomas, 1598-1647.</author>
+               </titleStmt>
+               <extent>[6], 30 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Christopher Meredith, dwelling at the Crane in Pauls Churchyard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Initial leaf has license to print.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Psalms LXV, 5 --  Sermons --  Early works to 1800.</term>
+               <term>Fast-day sermons --  17th century.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Sermons --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>Kate Allen</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>Kate Allen</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:154851:1"/>
+            <pb facs="tcp:154851:1" rendition="simple:additions"/>
+            <p> Gods unuſuall Anſwer To a Solemne Faſt.</p>
+            <p>OR, Some Obſervations upon the late ſad ſucceſſe in the Weſt, upon the day imme<g ref="char:EOLhyphen"/>diately following our Publique Humiliation; IN A Sermon before the Honourable Houſes of Parliament, on a Faſt ſpecially ſet apart upon that occaſion; In MARGARETS Weſtminſter, Sept. 12.</p>
+            <p>Anno MDCXLIV.</p>
+            <p>BY TH: COLEMAN, Preacher at <hi>Peters</hi> Cornhill LONDON, a Member of the preſent Aſſembly.</p>
+            <q>
+               <bibl>ESAY 1. 15.</bibl>
+               <p>
+                  <hi>And when you ſtretch forth your palmes, I will hide mine eyes from you; yea, though you multiply prayer, I doe not heare, your hands are full of blood.</hi>
+               </p>
+            </q>
+            <q>
+               <bibl>Rab. Iſaac Ben Samuel Adarbe, In Libro Dibre Shalom.</bibl>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Chriſtopher Meredith,</hi> dwelling at the Crane in Pauls Churchyard. 1644.</p>
+            <pb facs="tcp:154851:2"/>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:154851:2"/>
+            <head>TO THE HONOURABLE HOUSES OF PARLIAMENT.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hat! doth Iſrael turne his back? A good Cauſe and a croſſe ſucceſſe may ſometimes meet. Here is the noble<g ref="char:EOLhyphen"/>neſſe of a gracious ſpirit, to beare up then. The Romans upon ſuch a ſad blow, by a congratulatory Ambaſſage to the ſurviving Conſul, <hi>Quod non de Republica deſperaſſet,</hi> 
+               <note place="margin">Livie.</note> would ſhew an undauntedneſſe notwithſtanding. And, bleſſed be our inviſible Supporter, this unhappy accident hath not at all rejected your confidence in God: onely renewed, and doubled your addreſſes to God. In that day all our aimes and endevours were to lay our ſelves aſide, that we might lay our ſelves low. In which (with the Woman in the Goſpel) <hi>I have done what I could.</hi> The dayes for preparation, and the houres for delivery, (both meeting in <hi>ONE)</hi> ſpeeded my pace to the main: In which, reſting onely upon the never-failing aſsiſtance of Iehovah, with much brevity (wherewith in all things,
+<pb facs="tcp:154851:3"/> above all things I am taken) I hold forth <hi>ſolely, whol<g ref="char:EOLhyphen"/>ly,</hi> Scripture In the interpretation of ſome Texts where<g ref="char:EOLhyphen"/>of, though I vary from the ordinary acceptation, let me humbly ſay, that every of them hath its ground, and per<g ref="char:EOLhyphen"/>haps ſatisfactory. Otherwiſe, though my ſtudies run much that way, (which future times, it may be, ſhall evidence) yet I ſhall freely leave all to their owne ap<g ref="char:EOLhyphen"/>prehenſions. As for you (Noble Patriots) Gird your ſwords upon your ſides, and in the might of the Lord of Hoſts, ride on proſperouſly, <hi>upon the word</hi> of truth, <note place="margin">
+                  <hi>Pſal.</hi> 4<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> meekneſſe, and righteouſneſſe: and then your right hands ſhall make your friends to ſee, your foes to feele <hi>terrible things.</hi> So aſſuredly hopes, and daily prayes,</p>
+            <closer>
+               <signed>Yours cordially in this great work of the Lord Jeſus, THOMAS COLEMAN.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:154851:3"/>
+            <head>A Sermon Preached before both the Honou<g ref="char:EOLhyphen"/>rable Houſes of Parliament at an extraor<g ref="char:EOLhyphen"/>dinary Faſt, Sept. 12. 1644.</head>
+            <epigraph>
+               <bibl>PSAL. 65. 5.</bibl>
+               <q>By terrible things in righteouſneſſe wilt thou anſwer us, O God of our ſalvation.</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>Hat which may be knowne of <note place="margin">Rom. 1.</note> GOD, (for ſomething may, though little) that little, then, that Shamefull Little, (as the <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>
+                     <gap reason="illegible" resp="#MURP" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>ignominia.</hi>
+               </note> word ſeemes to import) in re<g ref="char:EOLhyphen"/>ſpect of our apprehending it, is tranſmitted to our underſtan<g ref="char:EOLhyphen"/>dings in Scripture by ſuch termes, which we pecu<g ref="char:EOLhyphen"/>liarly call <hi>Attributes.</hi>
+            </p>
+            <p>Of theſe note (as ſerving to our end) two things.</p>
+            <p n="1">1. The ground of them, whence they, or at leaſt ſome of them, riſe.</p>
+            <p n="2">
+               <pb n="2" facs="tcp:154851:4"/> 2. The uſe of them, to which in Scripture they ſerve.</p>
+            <p>For the firſt: They ariſe from Gods workings, <milestone type="tcpmilestone" unit="unspecified" n="1"/> that quality which was requiſite to that act, being <note place="margin">Via cauſationis</note> aſcribed to God, as to the cauſe. So from the Crea<g ref="char:EOLhyphen"/>tion an act of power, we call God Powerfull; from the admirable order, wherein all things were diſpo<g ref="char:EOLhyphen"/>ſed, we call him Wiſe; from the qualification of his Creatures, exceeding good, we terme him Good: ſo oft God is ſaid to be a Terrible God, becauſe by terrible things he gives his anſwer.</p>
+            <p>For the ſecond: Theſe Attributes are not onely <milestone type="tcpmilestone" unit="unspecified" n="2"/> naked Epithets adjoyned to the name of God, but have influence into the whole ſentence, and much conduce to the true ſenſe therein contained; as here, <hi>O God of my ſalvation:</hi> as after ſhall be ſeene. So the Saints in their prayers, according to the ſubject of their Petitions, entitle him, <hi>Great, Moſt High, Pre<g ref="char:EOLhyphen"/>ſerver of men, Hearer of prayers,</hi> and the like. And God himſelfe in thoſe ſeven Epiſtles to the Aſian Churches repreſents himſelfe to each in ſeverall expreſſions, as to the ſtate of that Church might fit<g ref="char:EOLhyphen"/>lieſt agree.</p>
+            <p>In Scripture God is oft called <hi>Terrible.</hi> The Text gives the ground, <hi>By terrible things he anſwers.</hi> He is called <hi>God of our ſalvation,</hi> becauſe that which is ſaid here of God, is in relation to him as a ſaving God.</p>
+            <p>The words then are cleare.</p>
+            <p n="1">1. <hi>Terrible things:</hi> ſuch actings of thy Power <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> and Providence, as may ſtrike terrour into men, and cauſe them to tremble, reverencing thy preſence a<g ref="char:EOLhyphen"/>bove all gods.</p>
+            <p n="2">
+               <pb n="3" facs="tcp:154851:4"/> 2. <hi>In righteouſneſſe,</hi> moſt righteouſly, thou remai<g ref="char:EOLhyphen"/>ning, <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> notwithſtanding thoſe terrible acts, a righte<g ref="char:EOLhyphen"/>ous God.</p>
+            <p n="3">3. <hi>Wilt anſwer us.</hi> It implyes the continuation of <note place="margin">Futurum deno<g ref="char:EOLhyphen"/>tat actionem continuam.</note> an act. This anſwering is thy courſe, and ordinary way. Anſwers are either to a queſtion, or to a peti<g ref="char:EOLhyphen"/>tion. We finde no queſtion put forth here, we muſt ſuppoſe a petition given up, and thus terribly here anſwered.</p>
+            <p>The ſumme of all is this:</p>
+            <p>We have prayed to our God, his anſwer is rough, by <hi>terrible things:</hi> yet in this anſwer, in himſelfe moſt righteous, and in the iſſue to us, a ſaving God.</p>
+            <p>Hence obſerve three Propoſitions.</p>
+            <list>
+               <item>1. Terrible things may be the conſequent of the duty and day of prayer.</item>
+               <item>2. Such terrible conſequences doe not at all in<g ref="char:EOLhyphen"/>trench upon the righteouſneſſe of God.</item>
+               <item>3. They may be the way, whereby God to a Land becomes a ſaving God.</item>
+            </list>
+            <p>Of theſe in order.</p>
+            <div n="1" type="part">
+               <head>The firſt Propoſition.</head>
+               <p>Terrible things may be the conſequent of the duty and day of prayer.</p>
+               <p>God may anſwer our private and publique inter<g ref="char:EOLhyphen"/>cedings <hi>by terrible things.</hi>
+               </p>
+               <list>
+                  <pb n="4" facs="tcp:154851:5"/>
+                  <item>Herein note five things,
+<list>
+                        <item>The Ground.</item>
+                        <item>The Sutableneſſe.</item>
+                        <item>The Truth.</item>
+                        <item>The Experience.</item>
+                        <item>The Improvement.</item>
+                     </list>
+                  </item>
+               </list>
+               <div n="1" type="section">
+                  <head>1. The Ground.</head>
+                  <p>
+                     <hi>Davids</hi> practice here, for</p>
+                  <p n="1">1. It is certaine, <hi>David</hi> was in the duty of prayer: and this is cleare,</p>
+                  <p n="1">1. By the title, which he gives to God, <hi>Oh thou that heareſt prayer,</hi> verſ. 2.</p>
+                  <p n="2">2. By the ſubject whereabout he was, the pre<g ref="char:EOLhyphen"/>valency of ſin. Iniquities prevaile in their infection <note place="margin">
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>
+                     </note> againſt my ſoule, in their puniſhment againſt my Land. The word reacheth both.</p>
+                  <p n="2">2. It is probable, he was keeping a publique day of prayer, by thoſe preceding expreſſions, verſ. 4. <hi>Dwell in thy Courts, Goodneſſe of thy houſe, Holineſſe of thy Temple;</hi> which hold forth either that he as a pub<g ref="char:EOLhyphen"/>lique perſon, was in that publique place deploring the ſins, or jointly with others bewailing the cala<g ref="char:EOLhyphen"/>mities of his Land and People.</p>
+                  <p>Looking on the ſins of the times, in his confeſſi<g ref="char:EOLhyphen"/>ons they came ſo thicke upon him, that they over<g ref="char:EOLhyphen"/>whelmed him. <hi>Iniquities prevaile.</hi>
+                  </p>
+                  <p>Looking on the miſeries, the Drought was ſo univerſally burning (for a drought was the particu<g ref="char:EOLhyphen"/>lar calamity) that as a ſcourge from the Almighty it generally did ſpread. And yet notwithſtanding his prayers, by ſuch <hi>terrible things</hi> did God anſwer ſtill. <hi>Terrible things</hi> followed upon this duty and day of prayer.</p>
+                  <pb n="5" facs="tcp:154851:5"/>
+               </div>
+               <div n="2" type="section">
+                  <head>2. The ſutableneſſe.</head>
+                  <p>How agreeable is this to our work in hand, the occaſion of this dayes ſolemnity?</p>
+                  <p n="1">1. What the occaſion is, you know, In a ſad and terrible act from the Weſt hath God ſpoke unto us.</p>
+                  <p n="2">2. When it happened. Give me leave to reminde <note place="margin">Aug. 13. a Faſt for that Army in 6. Churches, Aug. 28. a pub<g ref="char:EOLhyphen"/>lique Faſt, Aug. 30 this ſad diſperſion.</note> you, even the day after the laſt Publique Faſt kept in this Kingdome, City, Place; and not many dayes after a peculiar Faſt for the welfare of that very Army.</p>
+                  <p n="3">3. It is plaine then, that it is an anſwer, and the thing being terrible, we take up <hi>Davids</hi> words, and ſay, <hi>By terrible things in righteouſneſſe God anſwered our laſt day of prayer.</hi>
+                  </p>
+               </div>
+               <div n="3" type="section">
+                  <head>3. The truth.</head>
+                  <p>We muſt confeſſe to the glory of the goodneſſe of our loving God, he doth not ordinarily anſwer thus. Few Scripture examples have we of ſuch terrible conſequences. Dayes of prayer ſeldome faile of a gainfull returne: yet,</p>
+                  <p n="1">1. Thus it ſeemes to be with the Iſraelites, 1 <hi>Sam.</hi> 4. 1. The word of <hi>Samuel</hi> was for all Iſrael. His dai<g ref="char:EOLhyphen"/>ly <note place="margin">
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap> The common tranſlation, <hi>To all Iſrael,</hi> is harſh, a<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> though <hi>Samuel</hi> ſet them on a worke that they might be ruined.</note> words and prayers were for his people, and for their good, and particularly for a comfortable ſuc<g ref="char:EOLhyphen"/>ceſſe in this Expedition. Thus fortified with this holy mans prayers, they ſet the battel in aray againſt the Philiſtims, and fell downe wounded before them once and againe. A terrible anſwer!</p>
+                  <p n="2">2. And thus <hi>ſometimes</hi> doth God appeare to the reſt of his children, elſe why doe they oft complaine</p>
+                  <p n="1">1. Of their prayer ſhut out? <hi>Lam.</hi> 3. 8.</p>
+                  <p n="2">2. Of their prayers not admitted, God hiding
+<pb n="6" facs="tcp:154851:6"/> himſelfe in ſuch a thick cloud that they cannot pierce thorough? verſ. 44.</p>
+                  <p n="3">3. Of Gods being angry with the prayer of his ſervants? <hi>Pſal.</hi> 80. 4.</p>
+                  <p>And is not this anſwer terrible, or is it not ter<g ref="char:EOLhyphen"/>rible, becauſe no anſwer? Thus God ſometimes, and yet but <hi>ſometimes:</hi> that is our happineſſe: <hi>Why hideſt thou thy face at times in trouble?</hi> Pſal. 10. 1. ſo <note place="margin">
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>
+                     </note> the Originall.</p>
+               </div>
+               <div n="4" type="section">
+                  <head>4. The experience.</head>
+                  <p>And ſo now hath God dealt with us: what the anſwer is, and that it is an anſwer, was ſaid before. And a terrible thing is this anſwer in two reſpects.</p>
+                  <list>
+                     <item>1. The great hopes conceived of it.</item>
+                     <item>2. The probable conſequences from it.</item>
+                  </list>
+                  <p n="1">1. The great hopes we had of this Army, makes <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>his ſad blow ſo much the more contrary to expecta<g ref="char:EOLhyphen"/>tion, and that is a circumſtance which much imbit<g ref="char:EOLhyphen"/>ters; ſuch were the miſeries of Jeruſalem. <hi>The Kings of the earth would never have beleeved, neither would the inhabitants of the world ever have thought, that the enemy ſhould have entred the gates of Jeruſalem,</hi> Lam. 4. 12. This occaſioned bitter ſighings in the Prophet. <hi>O God thou haſt done terrible things,</hi> becauſe ſuch, <hi>as we looked not for,</hi> Iſa. 64. 3.</p>
+                  <p>But you were to blame for ſuch expectations, for <label type="milestone">
+                        <seg type="milestoneunit">Ob. </seg>
+                     </label> looking for great things.</p>
+                  <p>It may be ſo, all are apt to boaſt themſelves in the arme of fleſh, ſtrength of man, legs of horſe, and the like; yet this was not without good ground: for the loſſe is contrary.</p>
+                  <p>To compleat preparations in the Spring, this
+<pb n="7" facs="tcp:154851:6"/> Army was terrible with Banners.</p>
+                  <p n="2">2. To continuall aſſiſtance from the City, I mean ſpirituall. It was ſent forth with faſting and prayer, followed with faſting and prayer, not onely giving them their ſhare in the Common prayers for the whole, but giving them one portion above their bre<g ref="char:EOLhyphen"/>thren. <hi>Thou ſhalt not goe forth with us</hi> (ſay <hi>Davids</hi> ſouldiers) <hi>but thou ſhalt helpe us from the City, [by thy prayers to the God of battels, and ſo ſhalt thou be as good</hi> 
+                     <note place="margin">
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>
+                     </note> 
+                     <hi>as ten thouſand ſouldiers.]</hi> See, hence our hopes, yet our hopes are periſhed.</p>
+                  <p n="2">2. The probable conſequences from it: that which may follow upon this, may be moſt terrible: noter<g ref="char:EOLhyphen"/>rour like that which hereupon may ſit cloſe to the amazed ſpirits of tender hearts, I meane Thoughts of aſtoniſhment.</p>
+                  <p>I ſpeake not now of the prophane thoughts and Atheiſticall words of the men of Belial, <hi>Where is now your God?</hi> What gain from your faſtings and praiers? Where is the truth and ſtability of thoſe promiſes, you have boaſted on all day long? Though thoſe are ſtinging.</p>
+                  <p>But oh the amazed thoughts of Saints themſelves! How will they be dejected! Tis not new, but an ex<g ref="char:EOLhyphen"/>periment as ancient as the Scripture it ſelfe, for Gods owne to be affrighted, and with feare to become dumb at the proceedings of the Lord in the tempo<g ref="char:EOLhyphen"/>rary diſpences of the acts of providence.</p>
+                  <p n="1">1. Heare what <hi>David</hi> ſaith generally, <hi>Pſal.</hi> 60. 3. <hi>Thou ſheweſt thy people hard things, thou dealeſt with thine owne in ſeverity, layeſt them low, and by ſo doing thou makeſt</hi> Us <hi>to drink the wine of aſtoniſhment.</hi> Many
+<pb n="8" facs="tcp:154851:7"/> ſtrange cogitations, that aſtoniſh us, doe hence ariſe, So ſpeakes God himſelfe, <hi>Zech.</hi> 12. 2. <hi>Behold, I make Jeruſalem a cup of trembling to all people.</hi> A cup of trembling, not actively, as though Jeruſalem ſhould doe ſomething, but paſſively, the condition wherein I will place Jeruſalem ſhall cauſe trembling to all that heare of it. When I ſhall bring diſtreſſe upon them, and they heare that God hath dealt with his owne City thus; and among all particulars, this one principally amazeth, becauſe <hi>Judah</hi> (whom you would take for a friend) ſhall be in the ſiege againſt Jeruſalem. (This the words will beare.) And I tell <note place="margin">
+                        <gap reason="illegible" resp="#MURP" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>.</note> you, no one thing doe we ſo much ſtand aſtoniſhed at, as this, that many of our <hi>Judahs,</hi> whom the Coun<g ref="char:EOLhyphen"/>tries and Counties of this Kingdome choſe as Pa<g ref="char:EOLhyphen"/>triots, and intruſted with their <hi>all,</hi> ſhould perfidiouſ<g ref="char:EOLhyphen"/>ly now draw their ſwords with other children of iniquity to ruine it.</p>
+                  <p n="2">2. Heare how <hi>Job</hi> particularizeth thoſe aſtoniſh<g ref="char:EOLhyphen"/>ing <note place="margin">
+                        <gap reason="illegible" resp="#MURP" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>.</note> thoughts that probably follow ſuch unexpected calamities. <hi>My ſoule is weary of my life, I am even a<g ref="char:EOLhyphen"/>mazed to the death. I will leave my complaint upon my ſelfe;</hi> or rather, <hi>I will helpe my complaint againſt my ſelf,</hi> (according to the nature of tender and wounded hearts, aggravating and imbittering every thought and apprehenſion whatſoever.)</p>
+                  <p>But obſerve the particulars: <hi>It is good for the Lord to oppreſſe: God deſpiſeth the worke of his hands: Hee ſhines upon the counſels of the wicked.</hi> Strange thoughts! But the moſt remarkable inſtance that ever I met with, is the Prophet <hi>Habakkuk:</hi> He <hi>Cap.</hi> 1. and 3. of his Prophecie expreſſeth his aſtoniſhing thoughts
+<pb n="9" facs="tcp:154851:7"/> in a ſtrange manner: <hi>I may cry long enough, ere God</hi> 
+                     <note place="margin">Verſe 2.</note> 
+                     <hi>will heare, and pray and pray againe, but He will not ſave.</hi> Oh ſay not ſo <hi>Habakkuk:</hi> there are promiſes to the contrary. Promiſes! A promiſe is worth nothing, that is out of date. <hi>The word of God is but a looſe hold,</hi> 
+                     <note place="margin">Verſe 4.</note> 
+                     <hi>judgement never goeth forth from him.</hi> I tell you, <hi>God</hi> 
+                     <note place="margin">Verſe 14.</note> 
+                     <hi>mindes his people no more then he doth a fiſh:</hi> and the like. Hereupon <hi>Iſaiah, cap.</hi> 45. 9. <hi>Wo to him that ſtrives with his Maker.</hi> This is <hi>Habakkuk,</hi> (ſay the Jewiſh Ex<g ref="char:EOLhyphen"/>poſitors) and the words are to be read by way of complaint: Oh the man, the man <hi>Habakkuk, Habak<g ref="char:EOLhyphen"/>kuk</hi> that ſtrives with God! whom alſo they affirme to be that Watchman, <hi>cap.</hi> 21. 7, 8. that ſeeing horſes approaching, cryed out by reaſon of his amazement, A Lyon. Theſe are terrible conſequences, and ar<g ref="char:EOLhyphen"/>gue the anſwer to be terrible.</p>
+               </div>
+               <div n="5" type="section">
+                  <head>5. The improvement.</head>
+                  <p>If ſuch terrible conſequences may follow our prayers, looke upon all theſe acts and anſwers with a right eye.</p>
+                  <list>
+                     <item>1. There is a double conſideration of Gods do<g ref="char:EOLhyphen"/>ings.
+<list>
+                           <item>1. An overly ſuperficiall view of their out<g ref="char:EOLhyphen"/>ſide.</item>
+                           <item>2. A ſerious wiſe ſearching after God in them.</item>
+                        </list>
+                     </item>
+                     <item>2. There are alſo two ſorts of men imployed therein.
+<list>
+                           <item>1. The ordinary and common ſort, which look only upon the ſhell.</item>
+                           <item>2. The godly judicious hearts, that ſee more in things then what appeares.</item>
+                        </list>
+                     </item>
+                  </list>
+                  <pb n="10" facs="tcp:154851:8"/>
+                  <p> For theſe note theſe Scriptures.</p>
+                  <p>
+                     <hi>Pſal.</hi> 145. 6. Men, all men, all ſorts, will ſpeake of thy terrible acts, can relate things done. But I <hi>(Da<g ref="char:EOLhyphen"/>vid) will ſpeake of thy glorious honour, and declare thy greatneſſe in them.</hi>
+                  </p>
+                  <p>
+                     <hi>Pſal.</hi> 64 9, 10. Some onely ſee them, the terrible act it ſelfe, and theſe flee away, as amazed; but others ſhall be able to hold forth the work of God in them, becauſe they conſider wiſely of his doings: <hi>Job</hi> 18. 20. <hi>They that come after him ſhall be amazed at his day, as they that went before him were affrighted.</hi> A verſe of a difficult, if of any ſenſe. How can they that goe before be affrighted at that which followes? they that come after, the ordinary vulgar ſort, the hin<g ref="char:EOLhyphen"/>dermoſt, <note place="margin">
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>
+                     </note> the loweſt ſort, they are amazed at the ter<g ref="char:EOLhyphen"/>rible things, that oft come to paſſe: but the Ancients <note place="margin">
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap> 
+                        <hi>
+                           <gap reason="illegible" resp="#MURP" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap>.</hi>
+                     </note> and Wiſemen, they balance them, weigh the occur<g ref="char:EOLhyphen"/>rents, and ſeeke by a ſerious view to finde out the thoughts of the Lord.</p>
+                  <p>Let this be our endeavour, not being like the foo<g ref="char:EOLhyphen"/>liſh Philiſtims, and the Officers in their Army, <note place="margin">
+                        <gap reason="illegible" resp="#MURP" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> 8</note> when the Ark was brought into the hoſt, the Soul<g ref="char:EOLhyphen"/>diers cryed out for feare, <hi>Woe unto us, who ſhall deliver us out of the hands of theſe mighty Gods!</hi> Who? reply<g ref="char:EOLhyphen"/>ed the Officers, Never feare theſe Gods, <hi>for theſe are they that ſmote the Egyptians with all the plagues:</hi> This God hath not another Arrow in his Quiver, not an<g ref="char:EOLhyphen"/>other <note place="margin">
+                        <gap reason="illegible" resp="#MURP" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>.</note> Weapon in his Armory, he ſpent all his Darts againſt the Egyptians, or if any left, upon the rebel<g ref="char:EOLhyphen"/>lious Iſraelites in the wilderneſſe, <hi>Therefore be ſtrong, &amp;c.</hi> This their way was their folly; Be we wiſe, and minde, &amp;c</p>
+               </div>
+            </div>
+            <div n="2" type="part">
+               <pb n="11" facs="tcp:154851:8"/>
+               <head>The ſecond Propoſition.</head>
+               <p>Such terrible conſequences doe not at all intrench upon the righteouſneſſe of God.</p>
+               <p>God is true, and as true, ſo he doth afflict: <hi>Thy judgements are righteous,</hi> ('tis <hi>Davids</hi> acknowledge<g ref="char:EOLhyphen"/>ment) <hi>and of very faithfulneſſe thou haſt afflicted me:</hi> Though we be puniſhed, yet remaines he faithfull, and juſt, and good.</p>
+               <p>And this righteouſneſſe of his is cleare even in ſuch terrible anſwers. Becauſe they may be</p>
+               <list>
+                  <item>1. According to our deſires.</item>
+                  <item>2. According to our deſerts.</item>
+               </list>
+               <div n="1" type="section">
+                  <head>1. According to our deſires.</head>
+                  <p>I ſuppoſe in this paſſage Deſires rectified, and Prayers, ſuch as they ought to be, and then terrible things may follow, yet our prayers not by them croſſed. For obſerve,</p>
+                  <p>In every right deſire, and prayer of faith, there are foure things: all which I gather from</p>
+                  <p>
+                     <hi>Pſal.</hi> 17. 1, 2.</p>
+                  <p n="1">1. Howſoever our hearts are inclinable to decree a thing, as <hi>Job</hi> ſpeakes, that is, to faſten on the par<g ref="char:EOLhyphen"/>ticular, which we would have, preſcribing as it were to God, how he ſhould anſwer; yet faith makes a ſecret reference thereof to the good pleaſure of God, and in that doth reſt: <hi>Heare the right O Lord:</hi> though I faine would be anſwered thus, yet if another kinde of anſwer be right in thy eyes, give that; for, <hi>Heare the right.</hi> Who knowes but this terrible occurrent was the right, and ſo agreeable to the praier of faith?</p>
+                  <p n="2">
+                     <pb n="12" facs="tcp:154851:9"/> 2. Heare me no farther in my praying cryes, then as they proceed from lips not fained. If there be diſ<g ref="char:EOLhyphen"/>ſimulation in my hand, ſhut out my prayer. And <hi>Hoſea</hi> is punctuall in giving the Character of prayers proceeding from lips fained, in Chap. 7. 14.</p>
+                  <p n="1">1. If heart and mouth agree not. <hi>But they have not cryed to me with their hearts.</hi>
+                  </p>
+                  <p n="2">2. If it be onely a generall confuſed inarticulate <note place="margin">
+                        <gap reason="illegible" resp="#MURP" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>
+                     </note> ſupplication, and deprecation, praying or humbling. themſelves that they might not be ſingle.</p>
+                  <p>A praying frame is in requeſt, the faſhion of the times. But no particular fixed expreſſe mourning for ſuch or ſuch cauſes, or conſequents, ſinnes or mi<g ref="char:EOLhyphen"/>ſeries. <hi>They howled.</hi>
+                  </p>
+                  <p n="3">3. If onely for feare of evill. They pray indeed, but it is when they are ready to drop into Hell, when they are on their beds of ſickneſſe, and death, leſt they ſhould be damned. <hi>Vpon their beds.</hi>
+                  </p>
+                  <p n="4">4. If it be onely for the baſer and earthly part of the mercy; for peace, that their perſons and eſtates may be ſafe; for plenty, that they may have enough: They aſſemble themſelves, they troope together, come with the people of God to Faſts and publique humiliations, but it is <hi>for corne and for wine.</hi> They look no higher.</p>
+                  <p n="5">5. If they walk not in the ſtrength of their prayers, endeavoring holineſſe afterward in the feare of God. <hi>They rebell againſt me.</hi>
+                  </p>
+                  <p>If this deſcription lay hold upon our ſpirits, and preſents to our view the ſtate of our hearts, here in this terrible act is no croſſing of our prayers, becauſe they proceeded from fained lips.</p>
+                  <p n="3">
+                     <pb n="13" facs="tcp:154851:9"/> 3. This is my requeſt: Let the iſſue, the conſequent, that followes upon my prayers, appeare to be thy worke, that thy hand is in it, (be it what it will be) and I am ſatisfied. <hi>Let my ſentence come forth from thy preſence:</hi> Let that which is decreed upon for my prayer come from thee. So that if God inables us to ſee his hand in this ſad act, it is according to our prayers: Can we but ſee, that it is a ſentence came from Gods preſence? this terrible doing then is our anſwer.</p>
+                  <p n="4">4. Let the uprightneſſe of my heart be accepted, <note place="margin">
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>
+                     </note> 
+                     <hi>Let thy eyes behold uprightneſſe,</hi> and I am conten<g ref="char:EOLhyphen"/>ted. If God doe any way evidence his acceptance of our duty, to our ſpirits, we ſhall ſee and ſay, The du<g ref="char:EOLhyphen"/>ty and a day of prayer, and ſuch terrible conſequents may ſtand together, without any intrenchment upon the righteouſneſſe of God: <hi>Goe thy way, eate thy</hi> 
+                     <note place="margin">Eccleſ. 9.</note> 
+                     <hi>meat with joy, and drinke thy wine with a cheerfull heart, for God now accepteth thy worke.</hi>
+                  </p>
+                  <p>Thus this anſwer may be as we deſire.</p>
+               </div>
+               <div n="2" type="section">
+                  <head>2. According to our deſerts.</head>
+                  <p>If the anſwer be deſerved, then may God be righ<g ref="char:EOLhyphen"/>teous. Is there not a cauſe why the moſt righteous God ſhould anſwer us by <hi>terrible things?</hi> Let me here (according to my method and manner) diſcover from Scripture, cauſes of the ſucceſſeleſſe procee<g ref="char:EOLhyphen"/>dings of our Armies, and lay them down poſitively, leaving the particular application to every mans heart. And I deduce them to three heads.</p>
+                  <list>
+                     <item>The ſins of
+<list>
+                           <item>Former times.</item>
+                           <item>Our Armies.</item>
+                           <item>Our ſelves.</item>
+                        </list>
+                     </item>
+                  </list>
+                  <p n="1">
+                     <pb n="14" facs="tcp:154851:10"/>
+                  </p>
+                  <div n="1" type="subsection">
+                     <head>I. Of former times.</head>
+                     <p>
+                        <hi>Hoſ.</hi> 10. 9. <hi>O Iſrael, thou haſt ſinned from the dayes of Gibeah.</hi> Now whether you refer this to the horrible abuſe of the Levites Con<g ref="char:EOLhyphen"/>cubine committed in Gibeah of <hi>Benjamin,</hi> as ſome doe, or to their ſinfull way of asking a King, done in Gibeah of <hi>Saul,</hi> as others doe; it is all one to the point in hand. It was a ſinne committed ſome hun<g ref="char:EOLhyphen"/>dred yeares before <hi>Hoſea</hi> was borne, yet this by him was charged upon them now, and plainly ſaid, that for this, the battell againſt the children of iniquity could not overtake them. This particular was taken to heart by you, ſince this ſitting, when by an Ordi<g ref="char:EOLhyphen"/>nance you called upon the Kingdome to be humbled for the blood ſhed in the <hi>Marian</hi> perſecution. If ſuch an Ordinance were reprinted, with ſome additions concerning mixtures in Gods ſervice, and violence againſt Gods ſervants under the Prelaticall tyranny, it might poſſibly doe much good.</p>
+                  </div>
+                  <div n="2" type="subsection">
+                     <head>II. Of our Armies.</head>
+                     <p>
+                        <hi>Moſes, Deut.</hi> 1. 41. <hi>&amp; ſeq.</hi> ſpe<g ref="char:EOLhyphen"/>cifies three particulars, that made them turne their backs in the day of Battell.</p>
+                     <p n="1">1. Prophaneneſſe. You would not heare, but re<g ref="char:EOLhyphen"/>belled againſt the Lord. <hi>God is not with Iſrael,</hi> ſaith the Prophet. Oh how it is to be wiſhed, that a holy Cauſe were managed by holy Agents, and that when our Armies remove, they would put from them eve<g ref="char:EOLhyphen"/>ry evill thing.</p>
+                     <p n="2">2. Self ends. Every one his owne ſeverally, few the publique ſolely. <hi>Verſe</hi> 41. Ye girded on every one <hi>The Weapons of HIS War;</hi> as if a different war to <note place="margin">
+                           <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>
+                        </note> every ſouldier. It was a war of credit to one, of re<g ref="char:EOLhyphen"/>venge to another, of profit to a third: as that outlan<g ref="char:EOLhyphen"/>diſh
+<pb n="15" facs="tcp:154851:10"/> Captaine ingenuouſly confeſſed to one, com<g ref="char:EOLhyphen"/>mending, that for conſcience he was come over to maintaine the true Religion: Nay, nay, ſaid hee, I neither know what Conſcience or Religion is, I am come over to fight for my Credit and my Pay.</p>
+                     <p n="3">3. Wilfull putting themſelves into diſadvantages. <note place="margin">Verſe 43.</note> We will goe up to the hill. No, ſaid <hi>Moſes,</hi> the Amo<g ref="char:EOLhyphen"/>rites are above at the top; they have a great advan<g ref="char:EOLhyphen"/>tage <note place="margin">Abarbinel.</note> againſt you; yet you would preſumptuouſly go up to the Hill: but what followed? The Amorites came againſt you, and chaſed you, as Bees doe, and ye were deſtroyed before them.</p>
+                  </div>
+                  <div n="3" type="subsection">
+                     <head>III. Of our ſelves.</head>
+                     <p>Here is a wide field. I mention three.</p>
+                     <p n="1">1. The firſt from <hi>Hagg.</hi> 1. Slackneſſe in the work of Religion, in promoting the wayes of God, and eſtabliſhing his truth: and more particularly, our not walking ſutably to our conditions, our inſen<g ref="char:EOLhyphen"/>ſibleneſſe on theſe dayes of humiliation. <hi>No man put on his beſt aray,</hi> ſaith God of Iſrael. Wee are an un<g ref="char:EOLhyphen"/>humbled people. Many cleare evidences whereof (beſides others) are our unſeaſonable—feaſts.</p>
+                     <p n="2">2. Careleſneſſe in keeping, and dealing with de<g ref="char:EOLhyphen"/>linquents. 1 <hi>King.</hi> 20. 42. <hi>Becauſe thou haſt let goe out of thy hand the man of my curſe, whom I have devoted to deſtruction, thy life ſhall goe for his, thy people for his people.</hi> Thy puniſhment ſhall not onely be perſonall, but Nationall, thy People, Souldiers, Armies, all lye at ſtake for it.</p>
+                     <p>I could wiſh ſome care uſed in this, leſt an anſwer be put into the mouth of the adverſary, to evade that which perhaps is not of leaſt uſe in the juſtifica<g ref="char:EOLhyphen"/>tion
+<pb n="16" facs="tcp:154851:11"/> of this Cauſe in hand. The controverſie hath ſometimes beene ſtated thus: <hi>That the Supreme Court of Judicature may by force of armes fetch in delinquents to be puniſhed, though they be protected by the Royall Per<g ref="char:EOLhyphen"/>ſon.</hi> Tis true, Religion, Liberties, and other things, are now intwiſted within the ſame controverſie; but the other being one, and perhaps a maine part, what can bee replyed, when the not cenſuring of delin<g ref="char:EOLhyphen"/>quents in our power ſhall be thrown before us? &amp;c. There are ſeverall perſons, and ſeverall puniſhments: we preſſe not ſeverity; let actions be weighed, and a juſt proportion obſerved. Look to all degrees, and ſpare none: and among the reſt the Prelates, whoſe offences, in caſe they ſhould not be found capitall, that device of ſending them to New England, tran<g ref="char:EOLhyphen"/>ſcends all the inventions I ever met with.</p>
+                     <p n="3">3. No care for the reſtitution to every man of his loſſes. This is a preſſure, and followed with wars. <hi>Aſa</hi> oppreſſed ſome of his ſubjects, and the remain<g ref="char:EOLhyphen"/>der of his dayes was unquiet: <hi>From henceforth thou ſhalt have warres.</hi> How mindfull was <hi>Abraham,</hi> that <note place="margin">
+                           <gap reason="illegible" resp="#MURP" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap>.</note> every man ſhould have his owne to a ſhooe latchet? <hi>Gen.</hi> 14. 23. And no leſſe <hi>David,</hi> 1 <hi>Sam.</hi> 30. 25. when ſome of his ſouldiers through wearineſſe were diſa<g ref="char:EOLhyphen"/>bled to follow. The cry of many a poore undone man is great; make the ſpoiler returne the theft to the uttermoſt Farthing. Theſe are ſome parts of our wayes: and if theſe or the like vices abound, when God anſwers terrible things, why doth living man complaine? In theſe ſtill remaineth he righteous in himſelfe, and to us a God of ſalvation. Which is </p>
+                  </div>
+               </div>
+            </div>
+            <div n="3" type="part">
+               <pb n="17" facs="tcp:154851:11"/>
+               <head>The third Propoſition.</head>
+               <p>Such terrible conſequences may bee the way, whereby God to a Land becomes a ſaving God. Oh God thou art terrible out of thy holy places, <hi>Pſal.</hi> 68. <hi>ult.</hi> That evidence which we have of thee from ho<g ref="char:EOLhyphen"/>ly duties, is terrible, yet herein the God of Iſrael is he, a God prevailed with, a ſaving God.</p>
+               <p>Herein obſerve three ſteps.</p>
+               <p n="1">1. There is a time, a ſet time, when God is a ſa<g ref="char:EOLhyphen"/>ving God to his people. <hi>Thou wilt ariſe, and have mer<g ref="char:EOLhyphen"/>cy upon Sion, for the time, the ſet time is come, Pſal.</hi> 102. 13. <hi>The viſion is yet for an appointed time, it will ſurely come, and not tarry, Hab.</hi> 2. 3. There is a time both for <note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </note> man to work for the Lord, and for the Lord to work for man: When the former muſt ſhew himſelfe a God-ſerving man, and the latter will ſhew himſelfe a man-ſaving God.</p>
+               <p n="2">2. This time, this ſet time, is onely to be taken from the fit diſpoſition of the receiver. Gods hands are ſtretched out all day to give, but man hath ſome<g ref="char:EOLhyphen"/>times put off his coat, and is loath to put it on; is not ready to open when the Beloved knocks.</p>
+               <p n="3">3. Terrible anſwers thus diſpoſe: they prepare Gods way, haſten his comming. God is ſaving, by deſolating the adverſary, by proſpering his people. Theſe terrible anſwers fit both, the wicked for deſo<g ref="char:EOLhyphen"/>lation, the righteous for conſolation: the one by hardning, the other by ſelfe-viewing.</p>
+               <p>Obſerve we then here the ripeneſſe of them both for their ſeverall ends; of the</p>
+               <list>
+                  <pb n="18" facs="tcp:154851:12"/>
+                  <item>1. Wicked for deſtruction.</item>
+                  <item>2. Good for ſalvation.</item>
+               </list>
+               <p n="1">1. When is a wicked people ripe for ruine, and what are the ſignes of its approach? The probable conjectures hereof are from foure grounds. Their</p>
+               <list>
+                  <item>1. Combination in wickedneſſe.</item>
+                  <item>2. Hurtfulneſſe to others.</item>
+                  <item>3. Security.</item>
+                  <item>4. Prophaneneſſe.</item>
+               </list>
+               <p>All theſe the Prophet <hi>Nahum</hi> cap. 1. 10. poſitive<g ref="char:EOLhyphen"/>ly layes downe, and ſaith expreſly, that when theſe are found, <hi>they ſhall be conſumed as ſtubble fully dried.</hi> But heare the particulars.</p>
+               <p n="1">1. Their combination in ſin, and mutuall ſtreng<g ref="char:EOLhyphen"/>thening the hands of iniquity: while they be folden together, as thornes, inwrapped one within another for their more firme eſtabliſhment and reſiſtance. When hand joynes with hand, when our Prelacy had ſtrengthened their intereſts with their owne combined reſolves, backed herein with the counte<g ref="char:EOLhyphen"/>nance of Supreme Authority, and had made the tye (as they hoped) indiſſoluble by a deviſed Oath; thus folden together like thornes, we ſaw them ſuddenly on a flame, <hi>like ſtubble fully dry.</hi>
+               </p>
+               <p n="2">2. Their hurtfulneſſe. Like thornes, tearing the cloathes and fleſh of ſuch as came within their reach. When a wicked one is growne ſo peſtilent, that a man cannot in ſafety ſpeake to them, chooſing rather to have to doe with an angry Lyon, and a raging Beare, then ſin lyes at the doore. Oh how untoward were our Prelates and their Courts become! Thou<g ref="char:EOLhyphen"/>ſands whom they chaſed, as Bees doe, drave out of
+<pb n="19" facs="tcp:154851:12"/> the Land, impriſoned, fined, confined, ſilenced, de<g ref="char:EOLhyphen"/>prived, ruined, rending them like thornes, can wit<g ref="char:EOLhyphen"/>neſſe.</p>
+               <p n="3">3. Their ſecurity: crying to themſelves peace and ſafety, <hi>then ſhall come upon them ſudden deſtruction,</hi> 1 <hi>Theſſ.</hi> 5. 3. When they ſhall be drunken as drun<g ref="char:EOLhyphen"/>kards, one, yea a principall adjunct whereof is to be mindleſſe of the times and the calamities. <hi>Wo to thoſe that follow ſtrong drinke.</hi> Why? Becauſe <hi>they regard not the worke of the Lord, nor conſider the operation of his hands, Iſa.</hi> 5. 11, 12. Of all men a drunkard is leaſt fit to minde Gods doings. Many among us, about three yeares agone, had ſet theſe ſince-felt miſeries farre away out of their ſight, and as for any Items or Caveats given that way, they puffed at them; ſo drowned in eaſe, and drunken in ſecurity were many the very day or night before God tooke away their pride. Conſider, and be mindfull.</p>
+               <p n="4">4. Their prophaneneſſe: drunken as drunkards, abominably vitious. What ſin is not a drunkard guil<g ref="char:EOLhyphen"/>ty of? When the cry of Sodome reaches to heaven, and the ſins of the Amorites are full, the heavens rained vengeance on the one, the earth ſpued out the other. Seeſt thou one wicked overmuch? he ſhall periſh out of his time. Beholdeſt thou the breaking out of filthineſſe, and ſin touching ſin? theſe are ſtubble fully dry, ready for the fire <note n="*" place="margin">See pag. fol.</note>: theſe are conjectures of their end, and probabilities of deſola<g ref="char:EOLhyphen"/>tion nigh at hand: And unto the height of theſe they mount up by no ſtep ſooner, then by Gods an<g ref="char:EOLhyphen"/>ſwering his ſervants prayers by terrible things. Then they combine, their party gets ſtrength, and Gods
+<pb n="20" facs="tcp:154851:13"/> people pay for it, then they ſcratch like Thornes, and rage like Beares: They flatter themſelves in their wayes, and ſay, <hi>I ſhall never ſit deſolate.</hi> Then pro<g ref="char:EOLhyphen"/>phaneneſſe compaſſeth them as a chaine, and having hearts as full of miſchief, as Hell is of horrour, drun<g ref="char:EOLhyphen"/>ken with proſperity, are caried on with fury. But in that day their thoughts periſh, they are gone, and are no more.</p>
+               <p>When pride compaſſeth the wicked as a chaine, <note place="margin">
+                     <gap reason="illegible" resp="#MURP" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </note> and violence covereth them as a garment; when they are corrupt, and ſpeak wickedly; when they ſet their mouthes againſt heaven, and live as if there were no God in Iſrael: then ſuddenly ſhall they be deſtroy<g ref="char:EOLhyphen"/>ed, and that without remedy.</p>
+               <p n="2">2. So on the other ſide, there is a time when, and a diſpoſition whereby the Saints are fitted for mercy, prepared to receive God as a ſaving God. This fit<g ref="char:EOLhyphen"/>neſſe ſee held forth in two Scriptures.</p>
+               <div n="1" type="section">
+                  <head>1. From <hi>Pſal.</hi> 24. 4.</head>
+                  <p>Here the qualifications of one that ſhall aſcend into the hill of the Lord are ſet down: <hi>viz.</hi> He that hath</p>
+                  <list>
+                     <item>1. <hi>Cleane hands.</hi>
+                     </item>
+                     <item>2. <hi>Pure heart.</hi>
+                     </item>
+                     <item>3. <hi>A ſoule not lift up to vanity.</hi>
+                     </item>
+                  </list>
+                  <p n="1">1. Cleane hands. Hands are the inſtrument of action, and pointeth us thereby to an holy imploy<g ref="char:EOLhyphen"/>ment.</p>
+                  <p n="2">2. Pure heart, or judgement; cleare in the prin<g ref="char:EOLhyphen"/>ciples and ſpirituall grounds of the work.</p>
+                  <p n="3">3. A ſoule not lift up to vanity. Affection not
+<pb n="21" facs="tcp:154851:13"/> wrongfully faſtned on that which is nothing, tranſi<g ref="char:EOLhyphen"/>tory, and hurtfull.</p>
+                  <p>That perſon then by theſe terrible occurrences is prepared to receive a ſaving God, that hath a heart</p>
+                  <list>
+                     <item>1. Holily imployed.</item>
+                     <item>2. Clearly convinced.</item>
+                     <item>3. Rightly affected.</item>
+                  </list>
+                  <div n="1" type="subsection">
+                     <head>I. Holily imployed.</head>
+                     <p>The hearts imployment is only to make its addreſſe to God, by prayer and ſup<g ref="char:EOLhyphen"/>plication to ſeek to him. So <hi>David, Pſal.</hi> 105. 4. preſ<g ref="char:EOLhyphen"/>ſeth, and withall ſheweth in what particulars we muſt ſeek him.</p>
+                     <p n="1">1. Generally, <hi>Seeke the Lord.</hi> Seek him, to finde his hand in his works; ſeek him, to gaine his favour to his works.</p>
+                     <p n="2">2. Particularly. In ſeeking him</p>
+                     <p n="1">1. Seek his ſtrength, ſpirituall ſupport from him under theſe terrible anſwers; that we may be able to ſtand faſt.</p>
+                     <p n="2">2. Seek his face, his gracious acceptance of you and your prayers in your ſeverall addreſſes to his Throne. Seek the Lord; ſeek his ſtrength; ſeek his face.</p>
+                  </div>
+                  <div n="2" type="subsection">
+                     <head>II. Cleerly convinced of two things.</head>
+                     <list>
+                        <item>1. Of his own ſin.</item>
+                        <item>2. Of the righteouſneſſe of God.</item>
+                     </list>
+                     <p n="1">1. Of his own ſin, and juſt demerit of the terrour. <hi>I will goe and returne to my place, till they acknowledge their offence, Hoſ.</hi> 5. 13. Gods aſſiſting and proſpering preſence may be withdrawn from a Nation, he may be gone to <hi>His</hi> place; he may contract, and as it were confine himſelf to the ſoules; and faith of his Saints,
+<pb n="22" facs="tcp:154851:14"/> which is one of his dwelling places, till that Nation be clearly convinced that they are juſtly puniſhed for their tranſgreſſion.</p>
+                     <p n="2">2. Of the righteouſneſſe of God. <hi>Mich.</hi> 6. 5. Re<g ref="char:EOLhyphen"/>member but the particulars of Gods proceedings; uſe any and all meanes you can, that you may bee brought to know the righteouſneſſe of God.</p>
+                  </div>
+                  <div n="3" type="subsection">
+                     <head>III. Rightly affected. This is when the heart is caried after</head>
+                     <p n="1">1. The purity of Gods wayes, of Religion. It is the time, the ſet time for God to ariſe, and have mer<g ref="char:EOLhyphen"/>cy upon Sion, when his ſervants take pleaſure in her ſtones, and favour the duſt thereof <hi>Pſal.</hi> 102. 13.</p>
+                     <p n="2">2. The publique good. The Centurion, <hi>Luke</hi> 7. is ſaid to be worthy of helpe from Chriſt, <hi>becauſe he loves our Nation, verſe</hi> 5.</p>
+                  </div>
+               </div>
+               <div n="2" type="section">
+                  <head>2 From <hi>Lam.</hi> 3. 26.</head>
+                  <p>This Scripture alſo hath a threefold qualification of one fitted for the ſalvation of God. It is good that a man ſhould both.—Or after the Originall,</p>
+                  <p>The good man, and he that hopeth, and ſilently waiteth, is for the ſalvation of the Lord.</p>
+                  <div n="1" type="subsection">
+                     <head>1. The good man.</head>
+                     <p>A godly ſanctified man. His priviledges are many. Happineſſes belong unto him. <note place="margin">Pſal. 1<gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>.</note> All thoſe rayes of light, that ſtreame from Sion, are <note place="margin">
+                           <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>
+                        </note> his peculiars, God doth thence bleſſe him, <hi>Pſal.</hi> 128. in three things, (and theſe likewiſe happy in him.)</p>
+                     <list>
+                        <item>1. In himſelfe.</item>
+                        <item>2. In his family.</item>
+                        <item>3. In his Country.</item>
+                     </list>
+                     <p n="1">1. In himſelfe. He ſhall ſhare in all the common
+<pb n="23" facs="tcp:154851:14"/> comforts of the Land. What mercy ſoever is given to the publique, is given to him. He is alwayes re<g ref="char:EOLhyphen"/>membred in the favour, God brings to his people, and his particular viſited with the Lands ſalvation. Is the Nation glad? In that gladneſſe he rejoyceth. <note place="margin">Pſal. 105. 4. &amp;c.</note> Is Gods inheritance refreſhed when it is weary? In it and with it he doth glory.</p>
+                     <p>He ſhall ſee, that is, injoy, ſhare in the good of Jeruſalem all the dayes of his life.</p>
+                     <p n="2">2. In his family: <hi>He ſhall ſee his childrens children. A juſt man walkes in his integrity, and his children are bleſſed after him, Prov.</hi> 20. 7.</p>
+                     <p n="3">3. In his Country: <hi>Peace upon Iſrael. The Lord</hi> 
+                        <note place="margin">
+                           <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>
+                        </note> 
+                        <hi>hath bleſſed thee ſince my comming,</hi> ſaith <hi>Jacob</hi> to <hi>La<g ref="char:EOLhyphen"/>ban, at my foot.</hi> Bleſſings are ſent to every place where the Saints feet tread. <hi>Abraham</hi> was the worlds bleſſing, and God commanded ſo. Be thou a bleſ<g ref="char:EOLhyphen"/>ſing. We have bleſſed you, we have made you a bleſſing, you, your ſelves to others. <hi>Pſal.</hi> 118. 26. But in ſpirituals, from the houſe of the Lord, that is the maine of Gods ſalvation. A godly man is for the ſalvation of God.</p>
+                  </div>
+                  <div n="2" type="subsection">
+                     <p>2. And he that hopeth. <hi>Bleſſed are they that wait</hi> 
+                        <note place="margin">
+                           <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap> To ſay, the man naturally living, is too flat.</note> 
+                        <hi>for him, Iſai.</hi> 30. 18. Why is the living man (the man ſpiritually living) ſorrowfull? is <hi>Jeremies</hi> mourn<g ref="char:EOLhyphen"/>full demand. He himſelfe anſwers, Man ſuffers for his ſin. And we ſay, moſt of the ſorrowes, unhappi<g ref="char:EOLhyphen"/>neſſes, ſad conditions of the people of God, and their agents, is for ſin, for this ſin, Their earthly confi<g ref="char:EOLhyphen"/>dence. They do not partake from God of ſalvation, becauſe they doe not hope in God for ſalvation. <hi>Ja<g ref="char:EOLhyphen"/>cob</hi> (it's probable) began to ſettle a little to the things
+<pb n="24" facs="tcp:154851:15"/> of this world, making that to him a firme poſſeſſion, which his father eſteemed but as a temporary abode, <hi>And Jacob DWELT in the Land wherein his Father was a ſtranger, Gen.</hi> 37. 1. And ſee him preſently ſad<g ref="char:EOLhyphen"/>ded in <hi>Joſeph</hi> his darling. <hi>Judah</hi> feared <hi>Joſeph</hi> be<g ref="char:EOLhyphen"/>cauſe of his dreames, upon <hi>Reubens</hi> forfeiture he ho<g ref="char:EOLhyphen"/>ped after a Kingdome, which thoſe dreames ſeemed to bequeath to <hi>Joſeph;</hi> in this he was loath to be prevented, unwilling, that any, that a brother ſhould ſtep in betweene a Kingdome and his iſſue. If this were removed, all were ſure. <hi>Judah</hi> ſticks not at it; his brothers ſlaughter is ſpoke of, his ſale effected, and ſo his perſon made incapable, the thing impoſ<g ref="char:EOLhyphen"/>ſible, and <hi>Judahs</hi> ſons are heires apparent to a crown. Thus far earthly policy bore up. He that remembers <hi>Er</hi> and <hi>Onan,</hi> will aſſert what here is ſaid. The ſpi<g ref="char:EOLhyphen"/>rituall beleever, not the Politician, is for the ſalva<g ref="char:EOLhyphen"/>tion of God. <hi>Joſeph</hi> himſelfe is become a Courtier, and a Favourite: his experience had fully infor<g ref="char:EOLhyphen"/>med him, how changeable were great ones favours. Hee hoped by affected neatneſſe, and Courtlike <note place="margin">
+                           <gap reason="illegible" resp="#MURP" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> on <gap reason="illegible" resp="#MURP" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> Gen. <gap reason="illegible" resp="#MURP" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap>.</note> behaviour to keep himſelfe in grace: whereby he became inſnared almoſt to his ruine. He that ho<g ref="char:EOLhyphen"/>peth.</p>
+                  </div>
+                  <div n="3" type="subsection">
+                     <p>3. And is ſilent, patiently undergoing what God <note place="margin">
+                           <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>
+                        </note> layes on him. <hi>This is the Lords doing,</hi> ſaith <hi>Moſes. And Aaron held his peace,</hi> ſaith the Text. You have heard of the patience of <hi>Job,</hi> and know what end the Lord made. Be ſilent to Jehovah, and under his hand, and verily thou ſhalt be fed. For, the good man, and he that hopeth, and ſilently waiteth, that, that is hee that is for the ſalvation of the Lord.</p>
+                     <pb n="25" facs="tcp:154851:15"/>
+                     <p> Theſe are the ſeverall qualifications, that ripen both the wicked and the righteous for their ends re<g ref="char:EOLhyphen"/>ſpectively, and in them both doth God appeare a ſaving God.</p>
+                  </div>
+               </div>
+               <div type="section">
+                  <p>The ſum of all is: Terrible anſwers harden the wicked, and make them irreconciliable to the waies of God. They make them to combine their ſtrength, that they may be as Thornes to hurt the man that is more righteous then they. Theſe <hi>terrible things</hi> plunge them into ſecurity and prophaneneſſe, and makes them as <hi>ſtubble fully dry.</hi> But the ſame ſo pre<g ref="char:EOLhyphen"/>pare the Saints, ſo exerciſeth their thoughts, convin<g ref="char:EOLhyphen"/>ceth their judgements, and regulateth their affecti<g ref="char:EOLhyphen"/>ons, ſo ſanctifieth their perſons, exciteth their de<g ref="char:EOLhyphen"/>pendence, and quieteth their ſpirits, that they ſhall quickly perceive God in this way to be the preſer<g ref="char:EOLhyphen"/>ver of men.</p>
+                  <p>Againe, terrible anſwers laſt not long. A day, a night, an houre, a moment, a little moment doe in Scripture phraſe expreſſe the duration of Gods frowne; and whileſt thus, it is but as a Chirurgions lancing in order to healing. He terribly ſpeaks when he intends certainly to ſave. The men in <hi>Hoſea's</hi> 
+                     <note place="margin">Hoſ. 6. 1.</note> time apprehended ſo much, and thorough a terrible appearance ſaw God a ſaving God. <hi>Come, let us re<g ref="char:EOLhyphen"/>turne to the Lord, &amp;c.</hi> Or rather thus: Goe ye, and we will returne to the, &amp;c. Ephraim was now under Gods hand, they had walked after a ſinfull Com<g ref="char:EOLhyphen"/>mandment, and God had rent them, &amp; was departed: then they under the burden of preſſures and ſinne thus cry out: Goe ye, O ye ſervants of the Lord, go ye on in your moſt righteous wayes, and we alſo,
+<pb n="26" facs="tcp:154851:16"/> we will returne to the Lord. What? to the Lord? ſee you not how terribly he deales? have you any hopes of being received? We confeſſe, he at this preſent anſwers by <hi>terrible things,</hi> he hath indeed torne us, but this is the way to a cure; he hath torne, and he will heale, yea otherwiſe we could not be healed; to effect it therefore, <hi>He WILL ſmite,</hi> he will lance, and ſearch, and ſo he will binde us up. Thus in his terrours is he a ſaving God. But they are bit<g ref="char:EOLhyphen"/>ter for the time, and ſhould they lye long, we ſhould be oppreſſed, therefore after two dayes he will re<g ref="char:EOLhyphen"/>vive us, and in the third wee ſhall ſtand up, and be found. The rod ſhall not long lye upon the lot of the righteous. God is oft corrective, never deſtructive.</p>
+                  <p>But the point is evident, and uſuall. I draw on to a cloſe.</p>
+                  <p>
+                     <hi>Jehoſhaphat</hi> and we are in a like condition. Dan<g ref="char:EOLhyphen"/>ger appeared, prayers are made, God is ſought unto, the enemies grow ſtrong. Looke yet nearlier, of the things requiſite for ſuch a time, they want much, have little; no courage, no ſtrength, no armes nor armies conſiderable, no might to reſiſt ſuch a com<g ref="char:EOLhyphen"/>pany comming againſt them; the King is at his wits end, he knowes not what to doe, he is overwhelmed with feares; the people they run to God to be infor<g ref="char:EOLhyphen"/>med what to doe, they are drowned in teares; diſ<g ref="char:EOLhyphen"/>coveries are made to both; the Scouts from the ene<g ref="char:EOLhyphen"/>mie come running with terrible tidings, Oh <hi>Jehoſha<g ref="char:EOLhyphen"/>phat, Jehoſhaphat,</hi> an enemy, an enemy, a numerous army marching furiouſly, already entred, and poſſeſ<g ref="char:EOLhyphen"/>ſed of ſome ſtrong places, &amp;c. Thus they. A Pro<g ref="char:EOLhyphen"/>phet from the Lord, divinely inſpired, from ſpiri<g ref="char:EOLhyphen"/>tuall
+<pb n="27" facs="tcp:154851:16"/> promiſes, gave ſtrong incouragement; Be not diſmayed, feare not numbers, minde not the perſons, conſider the Cauſe; thinke not who the men are, but whoſe the Cauſe is: The battell is not yours, but Gods: He will be with you as a Man of War: this terrible alarm is the way wherein he will be to you a ſaving God. As for you, <hi>Set your ſelves; Stand ſtill, and ſee the ſalvation of God.</hi>
+                  </p>
+                  <p n="1">1. Set your ſelves. This is our duty, we muſt not be idle, God bleſſeth us in all we put our hand to; Goe downe againſt the enemy, do your beſt; let the Souldiers march, the battell be ordered; ſet your hearts to; compoſe your ſpirits; have an eye to the Covenant; looke up to heaven; let the ſoule be be<g ref="char:EOLhyphen"/>leeving, the body be doing; ſet your ſelves in a right poſture either way, that neither may your faithleſſe hearts loſe your God, nor your diſorders, the battell. <hi>Set your ſelves.</hi>
+                  </p>
+                  <p n="2">2. Stand ſtill: be ſilent, quiet,</p>
+                  <p n="1">1. From feares and diſcouragements: neither fear nor doubt the ſucceſſe, that belongs to God, not to you; have an eye to your own, your affections, your aimes, your manner of managing; referre the reſt to him to whom it belongs: Truſt you in God, when the wicked bend their bowes. Hold your peace from any ſinfull diſtruſtfull paſſages, and then for the e<g ref="char:EOLhyphen"/>vent, let come on us what will. <hi>Job</hi> 13. 13.</p>
+                  <p n="2">2. From ſhunning dangers by falſe wayes. Let no mans judgement faile him. There is no ſafety in falſhood: a complyance is odious to all. A Caſtle is a refuge for a day, or ſo; flight prolongs the miſery; ſinfully then to betray the Cauſe, or truſt repoſed in
+<pb n="28" facs="tcp:154851:17"/> us, is to run into the danger we would avoid. Re<g ref="char:EOLhyphen"/>member <hi>Sampſons</hi> wife and father in law: The Phi<g ref="char:EOLhyphen"/>liſtims threatned to burne them, nothing but a trea<g ref="char:EOLhyphen"/>cherous betraying of <hi>Sampſon</hi> can prevent it; rather then they will hazard themſelves, they will break the bonds of relation. By their enticements <hi>Sampſon</hi> is deceived. Mark the end. He falls into the ſnare he ſhunned. The Philiſtims come up, and burn them both with fire. Behold the ſeverity and juſtice of God, who brought their feares upon them.</p>
+                  <p>So true is that of the Prophet, <hi>That ſhall be no con<g ref="char:EOLhyphen"/>fidence</hi> 
+                     <note place="margin">
+                        <gap reason="illegible" resp="#MURP" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>. <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>6.</note> 
+                     <hi>to the houſe of Iſrael which brings their iniquity to remembrance.</hi> Theſe are not the wayes therefore that God approves; ſtand ſtill in a full dependence on him; leave him to work his own ends by his own wayes. He is wiſe. <hi>Hold you your peace. Stand ſtill, and</hi>
+                  </p>
+                  <p n="3">3. <hi>See the ſalvation of God,</hi> brought to paſſe three wayes to the people of God.</p>
+                  <p>When their
+<list>
+                        <item>1. Prayers</item>
+                        <item>2. Perſons</item>
+                        <item>3. Cauſe</item>
+                     </list> get the victory.</p>
+                  <p n="1">1. When their prayers are victorious. So ſome<g ref="char:EOLhyphen"/>times God fights: ſo <hi>Moſes</hi> ſubdued <hi>Amalek: Jeho<g ref="char:EOLhyphen"/>ſhaphat</hi> his enemies: and <hi>Hezekiah Senacherib:</hi> for prayer hath in it a power preſervative, and deſtru<g ref="char:EOLhyphen"/>ctive, and in this Mount is often God ſeene.</p>
+                  <p n="2">2. When their perſons get the victory. In all the prevalent proceedings of the Saints, the victory is of God: ordinary meanes of Souldiers, Weapons, Stratagems, a ſtrong City, are ſubordinate to God. He uſeth them, and effects by them what he pleaſeth.</p>
+                  <p n="3">
+                     <pb n="29" facs="tcp:154851:17"/> 3. When the Cauſe ſtands up againſt all oppoſi<g ref="char:EOLhyphen"/>tions, though with the loſſe of the perſons, Religi<g ref="char:EOLhyphen"/>on gets the upper hand by the ſufferings of the pro<g ref="char:EOLhyphen"/>feſſours.</p>
+                  <p>Lift we up therefore both eyes and hearts, and ſee, and behold a ſaving God, when tempeſtuous round about him. Gods anſwer the laſt day was Lightning, and an horrible Tempeſt: this drave us to our ſhel<g ref="char:EOLhyphen"/>ter, where being freed from the fury of the ſtorme, we may with delight behold the refreſhing drops intermixed. This dayes imployment is this covert, wherein our deſire is to meet, to finde God an hi<g ref="char:EOLhyphen"/>ding place, as the ſhadow of a great Rock in a weary Land. The ſigne of it, and our duty after it is to double our diligence after this day, to enlive our ſpirits in the wayes of the Lord. <hi>Jacob</hi> being bleſ<g ref="char:EOLhyphen"/>ſed by <hi>Iſaac,</hi> met with a croſſe conſequent, a purpoſe of <hi>Eſau</hi> to murder him. A terrible anſwer. This makes his fathers houſe unſafe: he leaves it, but ſad<g ref="char:EOLhyphen"/>ly, and againſt his will. <hi>And Jacob went out from</hi> 
+                     <note place="margin">Gen. 28.</note> 
+                     <hi>Beerſheba.</hi> He was gone, <hi>verſe</hi> 7. yet <hi>verſe</hi> 10. hee went. Probably he ſet forward, and yet hanged back. His father, his mother, his family, his native Country, all are clogs: But at laſt gone he is: and in the way at Bethel, God, the God of his Fathers meets with him. By a baniſhment the God of his ſalvation appeared to him. <hi>Then Jacob lift up his feet</hi> 
+                     <note place="margin">Cap. 29. 1.</note> 
+                     <hi>and journeyed.</hi> Then he took heart to him. God, we hope, will make this day our Bethel. From this day forward, up and be doing. Double thy prayers, paines, purſe. <hi>Ride on proſperouſly becauſe of the word of truth and righteouſneſſe:</hi> that the right hand of the
+<pb n="30" facs="tcp:154851:18"/> Lord may bring valiant things to paſſe for us and our Armies. Once hath God anſwered by <hi>terrible things,</hi> but he will doe ſo no more. Therein he croſ<g ref="char:EOLhyphen"/>ſed not his righteous nature, though he concealed the acts of his mercy. If he give us grace to im<g ref="char:EOLhyphen"/>prove it aright, the end will ſhew, it was the way whereby he be<g ref="char:EOLhyphen"/>came to us a ſaving GOD.</p>
+                  <pb facs="tcp:154851:18"/>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
